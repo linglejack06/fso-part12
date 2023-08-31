@@ -9,4 +9,9 @@ Script started on Thu Aug 31 18:49:40 2023
 "1"
 127.0.0.1:6379> [0K127.0.0.1:6379> S[17C[0K127.0.0.1:6379> SE[18C[0K127.0.0.1:6379> SET[19C[0K127.0.0.1:6379> SET [0;90;49mkey value [NX|XX] [GET] [EX seconds|PX milliseconds|EXAT unix-time-seconds|PXAT unix-time-milliseconds|KEEPTTL][0m[20C[0K127.0.0.1:6379> SET "[21C[0K127.0.0.1:6379> SET "a[22C[0K127.0.0.1:6379> SET "ad[23C[0K127.0.0.1:6379> SET "add[24C[0K127.0.0.1:6379> SET "adde[25C[0K127.0.0.1:6379> SET "added[26C[0K127.0.0.1:6379> SET "added_[27C[0K127.0.0.1:6379> SET "added_t[28C[0K127.0.0.1:6379> SET "added_to[29C[0K127.0.0.1:6379> SET "added_tod[30C[0K127.0.0.1:6379> SET "added_todo[31C[0K127.0.0.1:6379> SET "added_todos[32C[0K127.0.0.1:6379> SET "added_todos"[0;90;49m key value [NX|XX] [GET] [EX seconds|PX milliseconds|EXAT unix-time-seconds|PXAT unix-time-milliseconds|KEEPTTL][0m[33C[0K127.0.0.1:6379> SET "added_todos" [0;90;49mvalue [NX|XX] [GET] [EX seconds|PX milliseconds|EXAT unix-time-seconds|PXAT unix-time-milliseconds|KEEPTTL][0m[34C[0K127.0.0.1:6379> SET "added_todos" "[35C[0K127.0.0.1:6379> SET "added_todos" "9[36C[0K127.0.0.1:6379> SET "added_todos" "90[37C[0K127.0.0.1:6379> SET "added_todos" "900[38C[0K127.0.0.1:6379> SET "added_todos" "9001[39C[0K127.0.0.1:6379> SET "added_todos" "9001"[0;90;49m value [NX|XX] [GET] [EX seconds|PX milliseconds|EXAT unix-time-seconds|PXAT unix-time-milliseconds|KEEPTTL][0m[40C[0K127.0.0.1:6379> SET "added_todos" "9001"[40C
 OK
-127.0.0.1:6379> 
+127.0.0.1:6379> [0K127.0.0.1:6379> e[17C[0K127.0.0.1:6379> ex[18C[0K127.0.0.1:6379> exi[19C[0K127.0.0.1:6379> exit[20C[0K127.0.0.1:6379> exit[20C
+[?2004hroot@1b7c94a476ea:/data# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                     [0m[27m[24m[Jjacklingle@Mac-Studio todo-backend % [K[?2004heexit[?2004l
+
+Script done on Thu Aug 31 18:53:58 2023
