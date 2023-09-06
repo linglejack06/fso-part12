@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /usr/src/app
+WORKDIR /usr/src/app/frontend
 
 ENV REACT_BACKEND_URL="http://localhost:3000"
 
